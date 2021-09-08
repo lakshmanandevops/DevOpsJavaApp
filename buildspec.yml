@@ -13,4 +13,4 @@ reports:
     base-directory: 'target/surefire-reports'
 artifacts:
   files:
-    - target/spring-petclinic-2.5.0-SNAPSHOT.jar
+    - target/JavaApp.war
