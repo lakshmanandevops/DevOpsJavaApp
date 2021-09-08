@@ -6,7 +6,7 @@ phases:
       - mvn surefire-report:report
       - mvn package
       - echo Build completed on `date`
-      - echo Build Owner is $Owner
+      - echo Build Owner is here $Owner
 reports:
   SurefireReports:
     files:
